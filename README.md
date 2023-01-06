@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lancer55
 - 👀 I’m interested in web development, servers, problem solving
-- 🌱 I’m currently learning pythin, html,css and javascript
+- 🌱 I’m currently learning python, html,css and javascript
 - 💞️ I’m looking to collaborate on python, html based projects
 - 📫 How to reach me lancers6229@gmail.com
 
